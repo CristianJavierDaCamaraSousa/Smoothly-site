@@ -1,8 +1,8 @@
-# Activar GitHub Pages (una vez)
+# Enable GitHub Pages (one-time)
 
-1. Crea el repo en GitHub: **CristianJavierDaCamaraSousa/Smoothly-site** (público, sin README si vas a empujar esta carpeta).
+1. Create the repo on GitHub: **CristianJavierDaCamaraSousa/Smoothly-site** (public; skip adding a README if you will push this folder).
 
-2. Desde tu máquina:
+2. From your machine:
 
 ```powershell
 cd c:\Smoothly\Smoothly-site
@@ -14,12 +14,12 @@ git remote add origin https://github.com/CristianJavierDaCamaraSousa/Smoothly-si
 git push -u origin main
 ```
 
-3. En GitHub: **Settings → Pages**
+3. On GitHub: **Settings → Pages**
    - Source: **Deploy from a branch**
    - Branch: **main**, folder **/docs**
    - Save
 
-4. Espera 1–3 minutos y abre en incógnito:  
+4. Wait 1–3 minutes, then open in a private/incognito window:  
    https://cristianjavierdacamarasousa.github.io/Smoothly-site/
 
-5. Sustituye las URLs en `docs/version.json` (ver `docs/LEMON-SQUEEZY.md`) y vuelve a hacer push.
+5. Replace the placeholder URLs in `docs/version.json` (see `docs/LEMON-SQUEEZY.md` or `docs/DOWNLOADS.md`) and push again.

@@ -10,7 +10,7 @@ Marketing landing and trial downloads for [Smoothly](https://smoothly.lemonsquee
    - Branch: **`main`** / folder **`/docs`**
 3. Site URL: **https://cristianjavierdacamarasousa.github.io/Smoothly-site/**
 
-After each app release, update [`docs/version.json`](docs/version.json) with Lemon Squeezy download URLs (see [docs/LEMON-SQUEEZY.md](docs/LEMON-SQUEEZY.md)).
+After each app release, update [`docs/version.json`](docs/version.json) with download URLs (see [docs/DOWNLOADS.md](docs/DOWNLOADS.md) or [docs/LEMON-SQUEEZY.md](docs/LEMON-SQUEEZY.md)).
 
 ## Support
 
