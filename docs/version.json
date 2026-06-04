@@ -1,13 +1,13 @@
 ﻿{
     "publishedAt":  "2026-06-04",
     "installer":  {
-                      "name":  "SmoothlySetup-1.2.5.exe",
-                      "url":  "https://github.com/CristianJavierDaCamaraSousa/Smoothly-site/releases/download/v1.2.5/SmoothlySetup-1.2.5.exe"
+                      "name":  "SmoothlySetup-1.2.6.exe",
+                      "url":  "https://github.com/CristianJavierDaCamaraSousa/Smoothly-site/releases/download/v1.2.6/SmoothlySetup-1.2.6.exe"
                   },
     "releaseNotesUrl":  "https://cristianjavierdacamarasousa.github.io/Smoothly-site/",
     "portable":  {
-                     "name":  "Smoothly-1.2.5-portable.exe",
-                     "url":  "https://github.com/CristianJavierDaCamaraSousa/Smoothly-site/releases/download/v1.2.5/Smoothly-1.2.5-portable.exe"
+                     "name":  "Smoothly-1.2.6-portable.exe",
+                     "url":  "https://github.com/CristianJavierDaCamaraSousa/Smoothly-site/releases/download/v1.2.6/Smoothly-1.2.6-portable.exe"
                  },
-    "version":  "1.2.5"
+    "version":  "1.2.6"
 }
