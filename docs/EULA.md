@@ -6,11 +6,11 @@ This agreement is between you and the Smoothly software author ("Licensor") for 
 
 ## 1. License grant
 
-Upon purchasing a valid license key, you receive a **non-exclusive, non-transferable** license to install and use the Software on computers you own or control for personal or commercial use.
+Upon purchasing a valid license key, you receive a **non exclusive, non transferable** license to install and use the Software on computers you own or control for personal or commercial use.
 
 ## 2. Trial
 
-The Software includes a **14-day trial** with full functionality. After the trial, smooth scrolling is disabled until you enter a valid license key.
+The Software includes a **14 day trial** with full functionality. After the trial, smooth scrolling is disabled until you enter a valid license key.
 
 ## 3. Restrictions
 
@@ -19,7 +19,7 @@ You may **not**:
 - Share, resell, or publish license keys
 - Reverse engineer the Software except where law expressly permits
 - Remove or alter copyright or license notices
-- Use the Software to develop a directly competing smooth-scroll product
+- Use the Software to develop a directly competing smooth scroll product
 
 ## 4. Updates
 
@@ -39,7 +39,7 @@ This license ends if you breach these terms. Upon termination, you must stop usi
 
 ## 8. Governing law
 
-This agreement is governed by the laws applicable in the Licensor's jurisdiction, without regard to conflict-of-law rules.
+This agreement is governed by the laws applicable in the Licensor's jurisdiction, without regard to conflict of law rules.
 
 ## Contact
 

@@ -1,6 +1,6 @@
 # Smoothly
 
-Public landing page and downloads for [Smoothly](https://smoothly.lemonsqueezy.com/buy) — smooth scrolling for Windows.
+Public landing page and downloads for [Smoothly](https://payhip.com/b/IqkQL), smooth scrolling for Windows.
 
 **Live site:** https://cristianjavierdacamarasousa.github.io/Smoothly-site/
 
