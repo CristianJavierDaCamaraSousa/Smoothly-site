@@ -35,4 +35,4 @@ Purchases are processed by Payhip. Their privacy policy applies to checkout.
 
 ## Contact
 
-Questions: https://github.com/CristianJavierDaCamaraSousa/Smoothly-site/issues
+Questions: cristianjdcs@gmail.com

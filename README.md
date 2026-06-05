@@ -4,4 +4,4 @@ Public landing page and downloads for [Smoothly](https://payhip.com/b/IqkQL), sm
 
 **Live site:** https://cristianjavierdacamarasousa.github.io/Smoothly-site/
 
-**Support:** https://github.com/CristianJavierDaCamaraSousa/Smoothly-site/issues
+**Support:** cristianjdcs@gmail.com

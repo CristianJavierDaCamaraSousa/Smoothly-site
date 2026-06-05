@@ -43,4 +43,4 @@ This agreement is governed by the laws applicable in the Licensor's jurisdiction
 
 ## Contact
 
-Support: https://github.com/CristianJavierDaCamaraSousa/Smoothly-site/issues
+Support: cristianjdcs@gmail.com
